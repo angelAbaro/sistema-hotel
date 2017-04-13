@@ -1,0 +1,17 @@
+commit 4cb32352d07e6d8dc38f18bde59416315cc141e5
+Author: angelAbaro <angelm.abaro@gmail.com>
+Date:   Thu Apr 13 10:32:32 2017 -0500
+
+    aqui he agregado un formulario de registro de reservas
+
+commit d1e7c8aed65571e9e73bd375b4de1a5cd63296fa
+Author: angelAbaro <angelm.abaro@gmail.com>
+Date:   Thu Apr 13 10:26:33 2017 -0500
+
+    aqui he modificado la clase f reservas para agregar o listar en la tabla a uss respectivos indices en MOSTRAR
+
+commit 346efa97badc8104da7526a6fa61b9341d958ee3
+Author: angelAbaro <angelm.abaro@gmail.com>
+Date:   Thu Apr 13 10:16:04 2017 -0500
+
+    aqui estoy empezando a trabajar mi proyecto con git para controlar versiones
