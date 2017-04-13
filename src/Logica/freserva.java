@@ -61,6 +61,14 @@ public class freserva {
                 registro[2] = rs.getString("descripcion");
                 registro[3] = rs.getString("unidad_medida");
                 registro[4] = rs.getString("precio_venta");
+                registro[5] = rs.getString("precio_venta");
+                registro[6] = rs.getString("precio_venta");
+                registro[7] = rs.getString("precio_venta");
+                registro[8] = rs.getString("precio_venta");
+                registro[9] = rs.getString("precio_venta");
+                registro[10] = rs.getString("precio_venta");
+                registro[11] = rs.getString("precio_venta");
+                registro[12] = rs.getString("precio_venta");
 
                 totalregistros = totalregistros + 1;
                 // a manera de fila agrego mi vector registro a la variable modelo
